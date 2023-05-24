@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateAndSortFields2", "CreateAndSortFields2.csproj", "{2774D69A-47C7-4A5E-9989-82CE1320A520}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2774D69A-47C7-4A5E-9989-82CE1320A520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2774D69A-47C7-4A5E-9989-82CE1320A520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2774D69A-47C7-4A5E-9989-82CE1320A520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2774D69A-47C7-4A5E-9989-82CE1320A520}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E84D37A-DFFC-4868-92EE-288C2FD41A93}
+	EndGlobalSection
+EndGlobal
